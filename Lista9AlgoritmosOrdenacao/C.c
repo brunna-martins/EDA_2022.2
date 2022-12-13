@@ -35,7 +35,7 @@ void print_nums(int nums[], int sizeof_nums)
 
 int main (void)
 {
-    int my_nums[1000] = {0};
+    int my_nums[50000] = {0};
     int i = 0;
 
     while (1)
